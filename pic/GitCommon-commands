@@ -1,0 +1,36 @@
+$git clone
+$git init
+
+$git add
+$git status
+$git mv 
+$git rm
+$git commit
+$git diff
+
+$git log
+$git log -p <file>
+$git blame <file>
+
+$git reset --head HEAD
+$git checkout HEAD <file>
+$git revert <commit>
+
+$git branch
+$git checkout branch <branch/tag>
+$git branch <new-branch>
+$git branch -d <branch>
+$git tag
+$git tag <branch>
+$git tag -d <branch>
+
+$git merge <branch>
+$git rebase <branch>
+
+$git remote -v
+$git remote show <remote>
+$git remote add <remote> <url>
+$git fetch <remote>
+$git pull <remote><branch>
+$git push <remote> <branch>
+
