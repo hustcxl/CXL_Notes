@@ -26,11 +26,12 @@
 * cumtrapz 累积梯形数值积分
 * lambertw x\*ex的反函数
 * spline 样条插值
-
+* [相关性和卷积](https://ww2.mathworks.cn/help/signal/correlation-and-convolution.html?s_tid=CRUX_lftnav)
 ## 4.工具函数
 * findpeaks 极值点求取，可以设置间隔参数，另参考EMD工具包中的extr函数
 * sortrows 矩阵行排序
-* find 查找一定条件的点
+* find 查找一定条件的点 
+
 
 ## 5. 矩阵和数组
 [MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
