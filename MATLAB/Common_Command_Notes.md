@@ -31,3 +31,6 @@
 * findpeaks 极值点求取，可以设置间隔参数，另参考EMD工具包中的extr函数
 * sortrows 矩阵行排序
 * find 查找一定条件的点
+
+## 5. 矩阵和数组
+[MATLAB文档矩阵和数组]（https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav）
