@@ -4,9 +4,9 @@
 ### 绘图命令
 * fplot 函数绘图 
 * subplot 绘制图组 
-* imagesc 绘制二维色阶图
-* pcolor 绘制各种类型伪彩图，例如时频表示
-
+* imagesc绘制二维色阶图
+* pcolor绘制各种类型伪彩图，例如时频表示
+* mesh 三维图
 ### 绘图调整
 [绘图调整参考文档](https://ww2.mathworks.cn/help/matlab/graphics-object-identification.html?searchHighlight=%E5%9B%BE%E5%BD%A2%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%A0%87%E8%AF%86&s_tid=doc_srchtitle)
 * axis 坐标调整
@@ -34,4 +34,5 @@
 
 
 ## 5. 矩阵和数组
-[MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
+* [MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
+* fliplr 翻转行向量
