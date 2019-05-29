@@ -33,4 +33,4 @@
 * find 查找一定条件的点
 
 ## 5. 矩阵和数组
-[MATLAB文档矩阵和数组]（https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav）
+[MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
