@@ -26,6 +26,11 @@
 * cumtrapz 累积梯形数值积分
 * lambertw x\*ex的反函数
 * spline 样条插值
+* floor 负无穷四舍五入
+* ceil 正无穷四舍五入
+* round 四舍五入最近的整数
+* conj 复共轭
+
 * [相关性和卷积](https://ww2.mathworks.cn/help/signal/correlation-and-convolution.html?s_tid=CRUX_lftnav)
 ## 4.工具函数
 * findpeaks 极值点求取，可以设置间隔参数，另参考EMD工具包中的extr函数
