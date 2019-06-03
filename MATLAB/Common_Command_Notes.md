@@ -43,3 +43,6 @@
 ## 5. 矩阵和数组
 * [MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
 * fliplr 翻转行向量
+* max向量的最大值，maxk 求取K个最大值
+* reshap 重构矩阵
+* repmat 重复数组副本
