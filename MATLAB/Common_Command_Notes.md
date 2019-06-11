@@ -36,8 +36,9 @@
 * findpeaks 极值点求取，可以设置间隔参数，另参考EMD工具包中的extr函数
 * sortrows 矩阵行排序
 * find 查找一定条件的点 
-* awgn 向信号添加高斯白噪声
- 
+* eval 执行文本命令
+* extractBefore 提取前几个字符串
+* copyfile 拷贝文件
 
 
 ## 5. 矩阵和数组
@@ -46,3 +47,7 @@
 * max向量的最大值，maxk 求取K个最大值
 * reshap 重构矩阵
 * repmat 重复数组副本
+
+## 6.信号处理工具箱
+* awgn 向信号添加高斯白噪声
+* envelope 求信号包络
