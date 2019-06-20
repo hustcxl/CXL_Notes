@@ -3,6 +3,7 @@
 ## 1.Matlab
 ### A.[Matlab常用命令索引](https://github.com/hustcxl/CXL_Notes/blob/master/MATLAB/Common_Command_Notes.md)
 ### B.工具箱索引
+### C.文件交换共享工具
 
 ## 2.编程语言
 ### A.Python
@@ -39,8 +40,11 @@
 ## 5.信号处理算法
 ### A.自适应分解
 
-## 6.旋转机械
+### B.时频分析技术
 
+## 6.旋转机械故障诊断
+### A.故障机理
+### B.传统的诊断方法
 ## 7.工具
 ### A.github
 收益匪浅的学习资料
