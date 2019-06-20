@@ -7,6 +7,7 @@
 * imagesc绘制二维色阶图
 * pcolor绘制各种类型伪彩图，例如时频表示
 * mesh 三维图
+* compass 绘制矢量
 ### 绘图调整
 [绘图调整参考文档](https://ww2.mathworks.cn/help/matlab/graphics-object-identification.html?searchHighlight=%E5%9B%BE%E5%BD%A2%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%A0%87%E8%AF%86&s_tid=doc_srchtitle)
 * axis 坐标调整
@@ -19,6 +20,7 @@
 * finverse 求函数的反函数
 * linspace 生成线性间距向量
 * logspace生成对数间距向量
+* solve 方程求解，dsolve微分方程求解
 
 ## 3. 数学
 * diff 微分
@@ -30,6 +32,8 @@
 * ceil 正无穷四舍五入
 * round 四舍五入最近的整数
 * conj 复共轭
+* fit_ellipse [拟合椭圆](https://ww2.mathworks.cn/matlabcentral/fileexchange/3215-fit_ellipse)
+
 
 * [相关性和卷积](https://ww2.mathworks.cn/help/signal/correlation-and-convolution.html?s_tid=CRUX_lftnav)
 ## 4.工具函数
