@@ -13,15 +13,12 @@
 * axis 坐标调整
 * gca 获取当前坐标区域或图
 * gcf 当前图窗的句柄
-
-
 ## 2. 函数
 * syms 创建系统变量与函数
 * finverse 求函数的反函数
 * linspace 生成线性间距向量
 * logspace生成对数间距向量
 * solve 方程求解，dsolve微分方程求解
-
 ## 3. 数学
 * diff 微分
 * trapz 梯形数值积分
@@ -33,8 +30,6 @@
 * round 四舍五入最近的整数
 * conj 复共轭
 * fit_ellipse [拟合椭圆](https://ww2.mathworks.cn/matlabcentral/fileexchange/3215-fit_ellipse)
-
-
 * [相关性和卷积](https://ww2.mathworks.cn/help/signal/correlation-and-convolution.html?s_tid=CRUX_lftnav)
 ## 4.工具函数
 * findpeaks 极值点求取，可以设置间隔参数，另参考EMD工具包中的extr函数
@@ -43,17 +38,13 @@
 * eval 执行文本命令
 * extractBefore 提取前几个字符串
 * copyfile 拷贝文件
-
-
 ## 5. 矩阵和数组
 * [MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
 * fliplr 翻转行向量
 * max向量的最大值，maxk 求取K个最大值
 * reshap 重构矩阵
 * repmat 重复数组副本
-
 ## 6.信号处理工具箱
 * awgn 向信号添加高斯白噪声
 * envelope 求信号包络
-
-[返回主目录<<](https://github.com/hustcxl/CXL_Notes)
+[<<返回主目录](https://github.com/hustcxl/CXL_Notes)
