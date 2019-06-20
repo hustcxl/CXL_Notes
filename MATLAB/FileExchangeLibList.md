@@ -23,6 +23,7 @@
 * [特征选择工具箱Feature Selection Library](https://ww2.mathworks.cn/matlabcentral/fileexchange/56937-feature-selection-library)
 * [用于分类和回归的极限学习机Extreme learning machine(ELM) for classification and regression](https://ww2.mathworks.cn/matlabcentral/fileexchange/69812-extreme-learning-machine-for-classification-and-regression)
 * [卷积神经网络CNN](https://ww2.mathworks.cn/matlabcentral/fileexchange/59223-convolution-neural-network-simple-code-simple-to-use)
+* [聚类算法DensityClust](https://ww2.mathworks.cn/matlabcentral/fileexchange/53922-densityclust)
 ## 数学工具
 * [椭圆拟合工具](https://ww2.mathworks.cn/matlabcentral/fileexchange/15125-fitellipse-m)
 
