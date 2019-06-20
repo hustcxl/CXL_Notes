@@ -15,7 +15,8 @@
 * [希尔伯特-黄变换HHT](https://ww2.mathworks.cn/matlabcentral/fileexchange/19681-hilbert-huang-transform?s_tid=FX_rc2_behav)
 * [多重同步压缩变换Multisynchrosqueezing Transform (MSST)](https://ww2.mathworks.cn/matlabcentral/fileexchange/68571-multisynchrosqueezing-transform)
 * [轴承故障诊断随机共振](https://ww2.mathworks.cn/matlabcentral/fileexchange/67247-tutorial-sample-of-time-delayed-feedback-stochastic-resonance-in-bearing-fault-detection)
-* [Teager Keiser能量算子向量化](https://ww2.mathworks.cn/matlabcentral/fileexchange/45406-teager-keiser-energy-operator-vectorized)
+* [Teager Keiser能量算子向量化](https://ww2.mathworks.cn/matlabcentral/fileexchange/45406-teager-keiser-energy-operator-vectorized)\
+* [多尺度排列熵(MPE)Multiscale Permutation Entropy (MPE)]（https://ww2.mathworks.cn/matlabcentral/fileexchange/37288-multiscale-permutation-entropy-mpe）
 
 ## 机器学习
 * [深度神经网络Deep Neural Network](https://ww2.mathworks.cn/matlabcentral/fileexchange/42853-deep-neural-network)
@@ -28,6 +29,7 @@
 ## 优化算法
 * [鲸鱼优化算法The Whale Optimization Algorithm](https://ww2.mathworks.cn/matlabcentral/fileexchange/55667-the-whale-optimization-algorithm)
 * [乌鸦搜索算法](https://ww2.mathworks.cn/matlabcentral/fileexchange/56127-crow-search-algorithm)
-
+* [灰狼优化器-Grey Wolf Optimizer (GWO)](https://ww2.mathworks.cn/matlabcentral/fileexchange/44974-grey-wolf-optimizer-gwo)
+* [优化算法专家Seyedali Mirjalili](https://ww2.mathworks.cn/matlabcentral/profile/authors/2943818-seyedali-mirjalili)
 
 ## 其他
