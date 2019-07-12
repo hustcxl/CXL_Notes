@@ -38,6 +38,7 @@
 * eval 执行文本命令
 * extractBefore 提取前几个字符串
 * copyfile 拷贝文件
+* fullfile 构建完整文件名
 ## 5. 矩阵和数组
 * [MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
 * fliplr 翻转行向量
@@ -47,4 +48,6 @@
 ## 6.信号处理工具箱
 * awgn 向信号添加高斯白噪声
 * envelope 求信号包络  
+* angle 相位角
+* unwrap 更正相位角以生成更平滑的相位图
 [<<返回主目录](https://github.com/hustcxl/CXL_Notes)
