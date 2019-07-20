@@ -44,6 +44,7 @@
 ## 6.旋转机械故障诊断
 ### 6.1.故障机理
 ### 6.2.传统的诊断方法
+### 6.3.[数据集整理](https://github.com/hustcxl/Rotating-machine-fault-data-set)
 ## 7.工具
 ### 7.1.github
 受益匪浅的学习资料
