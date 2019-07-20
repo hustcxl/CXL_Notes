@@ -36,6 +36,7 @@
 ### 4.1.常规学习算法
 
 ### 4.2.深度学习
+[深度学习笔记](https://github.com/hustcxl/CXL_Notes/blob/master/DeepLearning/DLNotes.md)
 
 ## 5.信号处理算法
 ### 5.1.自适应分解
