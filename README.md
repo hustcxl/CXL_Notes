@@ -7,9 +7,7 @@
 
 ## 2.编程语言
 ### 2.1.Python
-* 教程
-* 技巧
-* demo
+* [Python学习笔记](https://github.com/hustcxl/CXL_Notes/blob/master/Python/PythonNotes.md) 
 
 ### 2.2.C&C++
 * 教程
