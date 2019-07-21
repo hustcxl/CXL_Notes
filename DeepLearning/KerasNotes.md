@@ -13,3 +13,7 @@ $conda install keras #安装Keras
 [相关代码在Keras文档](https://keras.io/preprocessing/sequence/)中。  
 知乎上关于[Keras的配置教程](https://zhuanlan.zhihu.com/p/36551413)
 
+## 关于模型传递
+[Keras模型转为ONNX](https://xadupre.github.io/keras-onnx/index.html)  
+可以实现训练模型与matlab平台的兼容处理。
+
