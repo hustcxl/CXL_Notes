@@ -11,5 +11,5 @@ $conda install keras #安装Keras
 ```
 可以使用cifar10例子在jupyter中进行测试
 [相关代码在Keras文档](https://keras.io/preprocessing/sequence/)中。  
-
+知乎上关于[Keras的配置教程](https://zhuanlan.zhihu.com/p/36551413)
 
