@@ -27,6 +27,7 @@
 ## 3.操作系统
 ### 3.1.liunx
 * redHat
+* [ubuntu 使用笔记](linux/ubuntu.md)
 
 ### 3.2.windows&dos
 
