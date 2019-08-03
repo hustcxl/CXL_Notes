@@ -3,11 +3,11 @@
 ## 1.Matlab
 * [Matlab常用命令索引](https://github.com/hustcxl/CXL_Notes/blob/master/MATLAB/Common_Command_Notes.md)
 * 工具箱索引
-* [FileExchange 中共享的代码库](https://github.com/hustcxl/CXL_Notes/blob/master/MATLAB/FileExchangeLibList.md)
+* [Matlab FileExchange 中共享的代码库](https://github.com/hustcxl/CXL_Notes/blob/master/MATLAB/FileExchangeLibList.md)
 
 ## 2.编程语言
 * Python
- * [Python学习笔记](https://github.com/hustcxl/CXL_Notes/blob/master/Python/PythonNotes.md) 
+  * [Python学习笔记](https://github.com/hustcxl/CXL_Notes/blob/master/Python/PythonNotes.md) 
 * C&C++
 * SQL
 * R
