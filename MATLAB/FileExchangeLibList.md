@@ -16,7 +16,9 @@
 * [多重同步压缩变换Multisynchrosqueezing Transform (MSST)](https://ww2.mathworks.cn/matlabcentral/fileexchange/68571-multisynchrosqueezing-transform)
 * [轴承故障诊断随机共振](https://ww2.mathworks.cn/matlabcentral/fileexchange/67247-tutorial-sample-of-time-delayed-feedback-stochastic-resonance-in-bearing-fault-detection)
 * [Teager Keiser能量算子向量化](https://ww2.mathworks.cn/matlabcentral/fileexchange/45406-teager-keiser-energy-operator-vectorized)\
-* [多尺度排列熵(MPE)Multiscale Permutation Entropy (MPE)](https://ww2.mathworks.cn/matlabcentral/fileexchange/37288-multiscale-permutation-entropy-mpe)
+* [多尺度排列熵(MPE)Multiscale Permutation Entropy (MPE)](https://ww2.mathworks.cn/matlabcentral/fileexchange/37288-multiscale-permutation-entropy-mpe)  
+* [固有时间尺度分解Intrinsic Time-Scale Decomposition](https://ww2.mathworks.cn/matlabcentral/fileexchange/69380-intrinsic-time-scale-decomposition-itd)
+* [经验模态分解Empirical Mode Decomposition](https://ww2.mathworks.cn/matlabcentral/fileexchange/21409-empirical-mode-decomposition) 
 
 ## 机器学习
 * [深度神经网络Deep Neural Network](https://ww2.mathworks.cn/matlabcentral/fileexchange/42853-deep-neural-network)
