@@ -21,6 +21,8 @@
 ### 胶囊网络capsule-networks
 * [胶囊网络的TensorFlow实现](https://github.com/bourdakos1/capsule-networks)
 * [胶囊网络相关的资源列表](https://github.com/sekwiatkowski/awesome-capsule-networks)
+* [将胶囊网络作为GAN的鉴别器](https://github.com/gusgad/capsule-GAN)
+包含了网络的Keras实现。
 
 ### CNN卷积神经网络
 
