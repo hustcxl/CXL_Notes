@@ -26,6 +26,9 @@
 
 ### CNN卷积神经网络
 * [经典CNN网络的实现](https://github.com/BIGBALLON/CIFAR-ZOO)
+* [CNN网络架构演进：从LeNet到DenseNet](https://www.cnblogs.com/skyfsm/p/8451834.html)
+* [经典CNN结构简析：AlexNet、VGG、NIN、GoogLeNet、ResNet etc.](https://zhuanlan.zhihu.com/p/47391705)
+* [深度学习——卷积神经网络 的经典网络（LeNet-5、AlexNet、ZFNet、VGG-16、GoogLeNet、ResNet）](https://blog.csdn.net/loveliuzz/article/details/79080194)
 
 
 ### GAN生成对抗网络
