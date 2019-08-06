@@ -27,8 +27,9 @@
 
 
 ## LSTM
+* [LSTM的python实现](https://github.com/nicodjimenez/lstm)
+
 
 ## RNN
 
 ## ELM
-
