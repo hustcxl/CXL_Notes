@@ -25,6 +25,8 @@
 包含了网络的Keras实现。
 
 ### CNN卷积神经网络
+* [经典CNN网络的实现](https://github.com/BIGBALLON/CIFAR-ZOO)
+
 
 ### GAN生成对抗网络
 自 2014 年 Ian Goodfellow 的《生成对抗网络（Generative Adversarial Networks）》论文发表以来，GAN 的进展突飞猛进。
