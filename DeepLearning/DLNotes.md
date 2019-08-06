@@ -16,21 +16,19 @@
 
 * [花书的笔记和一些较难章节的解释](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries)
 
-## CNN
+===
+## 常见模型
+### CNN卷积神经网络
 
-## GAN
+### GAN生成对抗网络
 自 2014 年 Ian Goodfellow 的《生成对抗网络（Generative Adversarial Networks）》论文发表以来，GAN 的进展突飞猛进。
 * [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)  
 * [万字综述之生成对抗网络（GAN）](https://www.jiqizhixin.com/articles/2019-03-19-12)
 * [学习网站](https://skymind.ai/wiki/generative-adversarial-network-gan)
 
-
-
-## LSTM
-* [LSTM的python实现](https://github.com/nicodjimenez/lstm)
-
-
-## RNN
-
-## ELM
+### RNN
+- *Long Short-Term Memory，LSTM*
+  * [LSTM的python实现](https://github.com/nicodjimenez/lstm)
+  
+### ELM
 * [极限学习机Extreme Learning Machines](https://www.ntu.edu.sg/home/egbhuang/index.html)
