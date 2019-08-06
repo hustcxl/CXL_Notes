@@ -33,3 +33,4 @@
 ## RNN
 
 ## ELM
+* [极限学习机Extreme Learning Machines](https://www.ntu.edu.sg/home/egbhuang/index.html)
