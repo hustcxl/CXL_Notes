@@ -50,4 +50,9 @@
 * envelope 求信号包络  
 * angle 相位角
 * unwrap 更正相位角以生成更平滑的相位图
-[<<返回主目录](https://github.com/hustcxl/CXL_Notes)
+* [tfridge 时频脊线检测](https://ww2.mathworks.cn/help/signal/ref/tfridge.html?searchHighlight=tfridge&s_tid=doc_srchtitle)
+* [instfreq 瞬时频率](https://ww2.mathworks.cn/help/signal/ref/instfreq.html?searchHighlight=instfreq&s_tid=doc_srchtitle)
+ 与tfbox工具箱中同名，调用方式存在冲突。
+ * [hilbert 与瞬时频率](https://ww2.mathworks.cn/help/signal/ug/hilbert-transform-and-instantaneous-frequency.html)
+
+[<<返回主目录](../README.md)
