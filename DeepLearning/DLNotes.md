@@ -18,6 +18,9 @@
 
 ===
 ## 常见模型
+### 胶囊网络capsule-networks
+* [胶囊网络的TensorFlow实现](https://github.com/bourdakos1/capsule-networks)
+
 ### CNN卷积神经网络
 
 ### GAN生成对抗网络
