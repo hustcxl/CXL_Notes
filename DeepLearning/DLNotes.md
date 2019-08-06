@@ -10,6 +10,7 @@
 * [Keras 框架下各种算法的实现例子](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
 * [pytorch 框架下各种算法的实现例子](https://github.com/yunjey/pytorch-tutorial)
 * [黄广海博士关于上述例子的索引汉化](https://zhuanlan.zhihu.com/p/51866340)
+* [邱锡鹏-神经网络与深度学习](https://nndl.github.io/)
 
 ## CNN
 
