@@ -46,4 +46,6 @@
   * [GRU的解释](https://zhuanlan.zhihu.com/p/32481747)
   
 ### ELM
-* [极限学习机Extreme Learning Machines](https://www.ntu.edu.sg/home/egbhuang/index.html)
+* [极限学习机Extreme Learning Machines](https://www.ntu.edu.sg/home/egbhuang/index.html)  
+
+[<<返回主目录](../README.md)
