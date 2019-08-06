@@ -20,6 +20,7 @@
 ## 常见模型
 ### 胶囊网络capsule-networks
 * [胶囊网络的TensorFlow实现](https://github.com/bourdakos1/capsule-networks)
+* [胶囊网络相关的资源列表](https://github.com/sekwiatkowski/awesome-capsule-networks)
 
 ### CNN卷积神经网络
 
