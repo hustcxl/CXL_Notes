@@ -29,6 +29,9 @@
 ### RNN
 - *Long Short-Term Memory，LSTM*
   * [LSTM的python实现](https://github.com/nicodjimenez/lstm)
+  * [LSTM的理解](https://www.cnblogs.com/wangduo/p/6773601.html)
+- *GRU（Gate Recurrent Unit）*
+  * [GRU的解释](https://zhuanlan.zhihu.com/p/32481747)
   
 ### ELM
 * [极限学习机Extreme Learning Machines](https://www.ntu.edu.sg/home/egbhuang/index.html)
