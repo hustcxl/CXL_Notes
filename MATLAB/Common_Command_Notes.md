@@ -58,8 +58,9 @@
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
  * [tsa Time-synchronous信号平均](https://ww2.mathworks.cn/help/signal/ref/tsa.html?searchHighlight=tachorpm&s_tid=doc_srchtitle)
  
+ 函数	| 功能
+ :--: | :--:
  envspectrum	| Envelope spectrum for machinery diagnosis
- ---- | ----
 orderspectrum	 | Average spectrum versus order for vibration signal
 ordertrack	 | Track and extract order magnitudes from vibration signal
 orderwaveform | 	Extract time-domain order waveforms from vibration signal
