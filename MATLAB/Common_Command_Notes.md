@@ -56,5 +56,16 @@
  * [hilbert 与瞬时频率](https://ww2.mathworks.cn/help/signal/ug/hilbert-transform-and-instantaneous-frequency.html)
  * [ordertrack 转速跟踪](https://ww2.mathworks.cn/help/signal/ref/ordertrack.html#bvflud5)
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
+ * [tsa Time-synchronous信号平均](https://ww2.mathworks.cn/help/signal/ref/tsa.html?searchHighlight=tachorpm&s_tid=doc_srchtitle)
+ 
+ | envspectrum	-|- Envelope spectrum for machinery diagnosis
+orderspectrum	Average spectrum versus order for vibration signal
+ordertrack	Track and extract order magnitudes from vibration signal
+orderwaveform	Extract time-domain order waveforms from vibration signal
+rpmfreqmap	Frequency-RPM map for order analysis
+rpmordermap	Order-RPM map for order analysis
+rpmtrack	Track and extract RPM profile from vibration signal
+tachorpm	Extract RPM signal from tachometer pulses
+tsa	Time-synchronous signal average
 
 [<<返回主目录](../README.md)
