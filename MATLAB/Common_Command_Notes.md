@@ -31,6 +31,7 @@
 * conj 复共轭
 * fit_ellipse [拟合椭圆](https://ww2.mathworks.cn/matlabcentral/fileexchange/3215-fit_ellipse)
 * [相关性和卷积](https://ww2.mathworks.cn/help/signal/correlation-and-convolution.html?s_tid=CRUX_lftnav)
+* [polyfit](https://ww2.mathworks.cn/help/matlab/ref/polyfit.html)
 ## 4.工具函数
 * findpeaks 极值点求取，可以设置间隔参数，另参考EMD工具包中的extr函数
 * sortrows 矩阵行排序
@@ -57,6 +58,7 @@
  * [ordertrack 转速跟踪](https://ww2.mathworks.cn/help/signal/ref/ordertrack.html#bvflud5)
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
  * [tsa Time-synchronous信号平均](https://ww2.mathworks.cn/help/signal/ref/tsa.html?searchHighlight=tachorpm&s_tid=doc_srchtitle)
+ 
  
  函数	| 功能
  :--: | :--:
