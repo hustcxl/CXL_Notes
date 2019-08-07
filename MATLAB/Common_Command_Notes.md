@@ -54,5 +54,7 @@
 * [instfreq 瞬时频率](https://ww2.mathworks.cn/help/signal/ref/instfreq.html?searchHighlight=instfreq&s_tid=doc_srchtitle)
  与tfbox工具箱中同名，调用方式存在冲突。
  * [hilbert 与瞬时频率](https://ww2.mathworks.cn/help/signal/ug/hilbert-transform-and-instantaneous-frequency.html)
+ * [ordertrack 转速跟踪](https://ww2.mathworks.cn/help/signal/ref/ordertrack.html#bvflud5)
+ * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
 
 [<<返回主目录](../README.md)
