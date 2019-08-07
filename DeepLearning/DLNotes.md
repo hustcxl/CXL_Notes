@@ -9,6 +9,7 @@
 * [TensorFlow 框架下的源码及例子](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Keras 框架下各种算法的实现例子](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
 * [pytorch 框架下各种算法的实现例子](https://github.com/yunjey/pytorch-tutorial)
+* [pytorch 教程](https://github.com/MorvanZhou/PyTorch-Tutorial)
 * [黄广海博士关于上述例子的索引汉化](https://zhuanlan.zhihu.com/p/51866340)
 * [邱锡鹏-神经网络与深度学习](https://nndl.github.io/)
 * [花书-《深度学习》在线版](http://www.deeplearningbook.org/)  
