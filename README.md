@@ -34,5 +34,5 @@
 * [github受益匪浅的学习资料](./tools/githubNotes.md)
 * [MarkDown学习](./tools/MarkDown.md)
 * [Google Colaboratory在线Python Note](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0)
-* office
+* office  
 <a href="https://www.codecogs.com/eqnedit.php?latex=e&space;=&space;m{c^2}\vec&space;F\oint&space;{\vec&space;F}&space;\cdot&space;d\vec&space;s&space;=&space;0&space;=&space;m\frac{{d\vec&space;v}}{{dt}}&space;&plus;&space;\vec&space;v\frac{{dm}}{{dt}}&space;\pm&space;\Phi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e&space;=&space;m{c^2}\vec&space;F\oint&space;{\vec&space;F}&space;\cdot&space;d\vec&space;s&space;=&space;0&space;=&space;m\frac{{d\vec&space;v}}{{dt}}&space;&plus;&space;\vec&space;v\frac{{dm}}{{dt}}&space;\pm&space;\Phi" title="e = m{c^2}\vec F\oint {\vec F} \cdot d\vec s = 0 = m\frac{{d\vec v}}{{dt}} + \vec v\frac{{dm}}{{dt}} \pm \Phi" /></a>
