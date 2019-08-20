@@ -16,7 +16,7 @@
   * redHat&CentOs
   * [ubuntu 使用笔记](linux/ubuntu.md)
 
-* windows&dos
+* [windows&dos](./win&dos/windows.md)
 
 ## 4.人工智能与机器学习算法
 * 传统机器学习算法
