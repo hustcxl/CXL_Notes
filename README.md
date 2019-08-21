@@ -34,5 +34,5 @@
 * [github受益匪浅的学习资料](./tools/githubNotes.md)
 * [MarkDown学习](./tools/MarkDown.md)
 * [Google Colaboratory在线Python Note](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0)
-* office  
+* [office](./tools/office.md)  
 * [Latex 学习笔记](./tools/latex.md) 
