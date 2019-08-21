@@ -1,4 +1,4 @@
-# git&github Notes
+# git&github Notes :see_no_evil:
 ## git 常用命令速查
 * git 将远程仓库同步到本地
 ```bash
@@ -20,5 +20,8 @@
   $ git config --global user.name “github’s Name”
   $ git config --global user.email "github@xx.com"
   ```
+* [git 入门教程](http://rogerdudler.github.io/git-guide/index.zh.html)
+
+* [GitHub 项目徽章的添加和设置](https://lpd-ios.github.io/2017/05/03/GitHub-Badge-Introduction/)   
 
 [<<返回主目录](../README.md)
