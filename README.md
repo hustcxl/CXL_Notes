@@ -36,3 +36,5 @@
 * [Google Colaboratory在线Python Note](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0)
 * [office](./tools/office.md)  
 * [Latex 学习笔记](./tools/latex.md) 
+
+[:arrow_double_up:回到顶部](#日常学习笔记)
