@@ -6,5 +6,6 @@
   * [MarkDown 基本语法](https://github.com/younghz/Markdown)
   
   * [emoji表情使用方法](https://www.jianshu.com/p/e66c9a26a5d5)
-  🙉
-  [<<返回主目录](../README.md)
+  [直接复制](http://emojihomepage.com/)，🙉，[或者使用代码:smile:](https://emojipedia.org/)。   
+  
+  [⬅<<返回主目录](../README.md)
