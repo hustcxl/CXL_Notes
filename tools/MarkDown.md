@@ -13,4 +13,4 @@
   * [MarkDown中插入emoji表情的不同方法](https://blog.csdn.net/u014636245/article/details/82945997) 
 
 
-  [&#X1F519 <<返回主目录](../README.md)
+  [:back: <<返回主目录](../README.md)
