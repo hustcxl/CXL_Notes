@@ -9,7 +9,9 @@
 
   * [emoji表情使用方法](https://www.jianshu.com/p/e66c9a26a5d5)  
   [直接复制](http://emojihomepage.com/)，🙉， 
-  [或者使用代码:smile:](https://emojipedia.org/)。   
+  [或者使用代码:smile:](https://emojipedia.org/)。  
+  [emoii代码查询](https://www.webfx.com/tools/emoji-cheat-sheet/)  
+
   * [MarkDown中插入emoji表情的不同方法](https://blog.csdn.net/u014636245/article/details/82945997) 
 
 
