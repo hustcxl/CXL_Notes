@@ -19,17 +19,18 @@
 * [windows&dos](./win/windows.md)
 
 ## 4.人工智能与机器学习算法📖
-* 传统机器学习算法
+* [机器学习:book:](./DeepLearning/MLNotes.md)
 
-* [深度学习](./DeepLearning/DLNotes.md)
+* [深度学习:mortar_board:](./DeepLearning/DLNotes.md)
 
 ## 5.信号处理算法🌊
+* [信号处理理论与方法:lollipop:](./SP/Signal_Processing.md)
 * [信号处理算法库](https://github.com/hustcxl/SP_Lib)
 
 ## 6.旋转机械故障诊断
 * 故障机理
-* 传统的诊断方法
-* [数据集整理](https://github.com/hustcxl/Rotating-machine-fault-data-set)
+* [故障诊断方法:chart_with_upwards_trend:]
+* [数据集整理🚟](https://github.com/hustcxl/Rotating-machine-fault-data-set)
 ## 7.工具🔨
 * [github受益匪浅的学习资料](./tools/githubNotes.md)
 * [MarkDown学习](./tools/MarkDown.md)
