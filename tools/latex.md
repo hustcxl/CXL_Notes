@@ -11,6 +11,8 @@
 
 * [LaTex常用特殊符号对应表](https://blog.csdn.net/caiandyong/article/details/53351737) 
 
+* [PGF and TiKZ examples gallery](http://www.texample.net/tikz/examples/)
+
 # 教程  
 
 * [一份其实很短的latex入门文档](https://liam.page/2014/09/08/latex-introduction/)
