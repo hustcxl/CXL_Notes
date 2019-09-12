@@ -20,6 +20,7 @@
 * [固有时间尺度分解Intrinsic Time-Scale Decomposition](https://ww2.mathworks.cn/matlabcentral/fileexchange/69380-intrinsic-time-scale-decomposition-itd)
 * [经验模态分解Empirical Mode Decomposition](https://ww2.mathworks.cn/matlabcentral/fileexchange/21409-empirical-mode-decomposition) 
 * [国立中央大学数据分析方法研究中心](https://in.ncu.edu.tw/~ncu34951/intro.html)  
+* [二维峰值检测](https://ww2.mathworks.cn/matlabcentral/fileexchange/37388-fast-2d-peak-finder?s_tid=FX_rc2_behav)
 
 ## 机器学习
 * [深度神经网络Deep Neural Network](https://ww2.mathworks.cn/matlabcentral/fileexchange/42853-deep-neural-network)
