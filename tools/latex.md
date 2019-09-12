@@ -1,6 +1,12 @@
 # Latex 学习笔记
 
-## 环境搭建
+*Table of contents*
+* [编辑环境搭建](#编辑环境搭建)
+* [一些工具](#一些工具)
+* [开源资源](#开源资源)
+* [教程](#教程)
+
+## 编辑环境搭建
 * [VSCode + TexLive 入门环境配置](https://blog.csdn.net/npe_ml/article/details/82912570)
 
 ## 一些工具
@@ -16,6 +22,8 @@
 * [PGF/TikZ中文手册](https://github.com/Hansimov/pgfmanual-zh)
 
 * [markdown 转pdf或者latex的工具](https://github.com/Wandmalfarbe/pandoc-latex-template)
+
+## 开源资源
 
 * [机器学习图形绘制latex资源](https://github.com/xinychen/awesome-latex-drawing)
 
