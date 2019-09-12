@@ -16,9 +16,10 @@
 ## 教程  
 
 * [一份其实很短的latex入门文档](https://liam.page/2014/09/08/latex-introduction/)
-* 清华大学 TUNA 协会出品的[如何使用 LaTeX 排版论文-陈晟祺2019.4](https://github.com/tuna/thulib-latex-talk)  
-  [如何使用 LaTeX 排版论文-赵涛2015.4](https://tuna.moe/assets/slides/latex-talk-v1.1.pdf)  
-  [如何使用 LaTeX 排版论文-汪彧之2015.4](https://tuna.moe/assets/slides/latex-talk-v2.0.pdf)  
+* 清华大学 TUNA 协会出品的latex教程
+  - [如何使用 LaTeX 排版论文-陈晟祺2019.4](https://github.com/tuna/thulib-latex-talk)  
+  - [如何使用 LaTeX 排版论文-赵涛2015.4](https://tuna.moe/assets/slides/latex-talk-v1.1.pdf)  
+  - [如何使用 LaTeX 排版论文-汪彧之2015.4](https://tuna.moe/assets/slides/latex-talk-v2.0.pdf)  
 
 * [一篇不错的latex排版博文](https://www.cnblogs.com/jingwhale/p/4250296.html)
 
