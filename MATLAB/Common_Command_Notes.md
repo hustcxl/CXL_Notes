@@ -77,7 +77,7 @@ tsa		 | Time-synchronous signal average（时间同步压缩信号平均）
 
 
  函数   | 功能
- :--: | :--:
+ :-- | :--
 emd		| Empirical mode decomposition 经验模态分解
 fsst		| Fourier synchrosqueezed transform 傅里叶同步压缩变换
 ifsst		| Inverse Fourier synchrosqueezed transform 
