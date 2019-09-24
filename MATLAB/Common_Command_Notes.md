@@ -59,7 +59,8 @@
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
  * [tsa Time-synchronous信号平均](https://ww2.mathworks.cn/help/signal/ref/tsa.html?searchHighlight=tachorpm&s_tid=doc_srchtitle)
  
- - 阶次分析相关
+ - 阶次分析相关  
+
  函数	| 功能
  :--: | :--:
  envspectrum	| Envelope spectrum for machinery diagnosis(包络谱)
@@ -72,7 +73,9 @@ rpmtrack	| Track and extract RPM profile from vibration signal（跟踪并从振
 tachorpm	 | Extract RPM signal from tachometer pulses（从转速表脉冲中提取RPM信号）
 tsa		 | Time-synchronous signal average（时间同步压缩信号平均）
 
-- [时频分析](https://ww2.mathworks.cn/help/signal/time-frequency-analysis.html)
+- [时频分析](https://ww2.mathworks.cn/help/signal/time-frequency-analysis.html)  
+
+
  函数   | 功能
  :--: | :--:
 emd		| Empirical mode decomposition 经验模态分解
@@ -92,4 +95,6 @@ istft		| Inverse short-time Fourier transform 短时傅里叶变换逆变换
 tfridge		| Time-frequency ridges 时频脊线
 wvd		| Wigner-Ville distribution and smoothed pseudo Wigner-Ville distribution 魏格纳-维纳分布
 xwvd		| Cross Wigner-Ville distribution and cross smoothed pseudo Wigner-Ville distribution
+
+
 [:back:返回主目录](../README.md)
