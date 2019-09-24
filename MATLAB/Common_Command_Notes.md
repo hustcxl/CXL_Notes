@@ -59,17 +59,37 @@
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
  * [tsa Time-synchronous信号平均](https://ww2.mathworks.cn/help/signal/ref/tsa.html?searchHighlight=tachorpm&s_tid=doc_srchtitle)
  
- 
+ - 阶次分析相关
  函数	| 功能
  :--: | :--:
  envspectrum	| Envelope spectrum for machinery diagnosis(包络谱)
 orderspectrum	 | Average spectrum versus order for vibration signal（振动信号的平均谱与阶）
 ordertrack	 | Track and extract order magnitudes from vibration signal（跟踪并提取振动信号的阶数）
-orderwaveform | 	Extract time-domain order waveforms from vibration signal（从振动信号中提取时域阶次波形）
+orderwaveform 	| 	Extract time-domain order waveforms from vibration signal（从振动信号中提取时域阶次波形）
 rpmfreqmap	 | Frequency-RPM map for order analysis（阶次分析频率转速map分析）
 rpmordermap	| Order-RPM map for order analysis（阶次转速map分析）
 rpmtrack	| Track and extract RPM profile from vibration signal（跟踪并从振动信号中提取RPM剖面）
 tachorpm	 | Extract RPM signal from tachometer pulses（从转速表脉冲中提取RPM信号）
-tsa	 | Time-synchronous signal average（时间同步压缩信号平均）
+tsa		 | Time-synchronous signal average（时间同步压缩信号平均）
 
-[<<返回主目录](../README.md)
+- [时频分析](https://ww2.mathworks.cn/help/signal/time-frequency-analysis.html)
+ 函数   | 功能
+ :--: | :--:
+emd		| Empirical mode decomposition 经验模态分解
+fsst		| Fourier synchrosqueezed transform 傅里叶同步压缩变换
+ifsst		| Inverse Fourier synchrosqueezed transform 
+hht		| Hilbert-Huang transform 希尔波特黄变换
+instfreq	| Estimate instantaneous frequency 瞬时频率
+kurtogram	| Visualize spectral kurtosis 可视化谱峰度
+pkurtosis	| Spectral kurtosis from signal or spectrogram 光谱峰度从信号或光谱图
+pentropy	| Spectral entropy of signal 信号谱熵
+pspectrum	| Analyze signals in the frequency and time-frequency domains 分析频域和时频域的信号
+spectrogram	| Spectrogram using short-time Fourier transform 使用短时傅里叶变换的谱图
+xspectrogram	| Cross-spectrogram using short-time Fourier transforms 使用短时傅里叶变换的交叉谱图
+stft		| Short-time Fourier transform 短时傅里叶变换
+iscola		| Determine whether window-overlap combination is COLA compliant 确定窗口重叠组合是否符合COLA
+istft		| Inverse short-time Fourier transform 短时傅里叶变换逆变换
+tfridge		| Time-frequency ridges 时频脊线
+wvd		| Wigner-Ville distribution and smoothed pseudo Wigner-Ville distribution 魏格纳-维纳分布
+xwvd		| Cross Wigner-Ville distribution and cross smoothed pseudo Wigner-Ville distribution
+[:back:返回主目录](../README.md)
