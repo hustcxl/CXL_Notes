@@ -8,6 +8,8 @@
 * pcolor绘制各种类型伪彩图，例如时频表示
 * mesh 三维图
 * compass 绘制矢量
+* text 向数据点添加文本说明
+* annotation  创建注释
 ### 绘图调整
 [绘图调整参考文档](https://ww2.mathworks.cn/help/matlab/graphics-object-identification.html?searchHighlight=%E5%9B%BE%E5%BD%A2%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%A0%87%E8%AF%86&s_tid=doc_srchtitle)
 * axis 坐标调整
