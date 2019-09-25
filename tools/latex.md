@@ -23,6 +23,8 @@
 
 * [markdown 转pdf或者latex的工具](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
+* [MATLAB图转latex TikZ代码](https://github.com/matlab2tikz/matlab2tikz)
+
 ## 开源资源
 
 * [机器学习图形绘制latex资源](https://github.com/xinychen/awesome-latex-drawing)
