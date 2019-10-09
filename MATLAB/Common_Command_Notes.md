@@ -10,6 +10,7 @@
 * compass 绘制矢量
 * text 向数据点添加文本说明
 * annotation  创建注释
+* print 打印图窗或保存为特定文件格式
 ### 绘图调整
 [绘图调整参考文档](https://ww2.mathworks.cn/help/matlab/graphics-object-identification.html?searchHighlight=%E5%9B%BE%E5%BD%A2%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%A0%87%E8%AF%86&s_tid=doc_srchtitle)
 * axis 坐标调整
@@ -53,6 +54,7 @@
 * envelope 求信号包络  
 * angle 相位角
 * unwrap 更正相位角以生成更平滑的相位图
+* resample downsample upsample 重采样相关
 * [tfridge 时频脊线检测](https://ww2.mathworks.cn/help/signal/ref/tfridge.html?searchHighlight=tfridge&s_tid=doc_srchtitle)
 * [instfreq 瞬时频率](https://ww2.mathworks.cn/help/signal/ref/instfreq.html?searchHighlight=instfreq&s_tid=doc_srchtitle)
  与tfbox工具箱中同名，调用方式存在冲突。
@@ -60,6 +62,7 @@
  * [ordertrack 转速跟踪](https://ww2.mathworks.cn/help/signal/ref/ordertrack.html#bvflud5)
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
  * [tsa Time-synchronous信号平均](https://ww2.mathworks.cn/help/signal/ref/tsa.html?searchHighlight=tachorpm&s_tid=doc_srchtitle)
+ 
  
  - 阶次分析相关  
 
