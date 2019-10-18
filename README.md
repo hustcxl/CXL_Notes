@@ -7,7 +7,7 @@
 
 ## 2.编程语言👨‍💻
 * [Python](./Python/PythonNotes.md) 
-* C&C++
+* [C&C++](./C++/C++Note.md)
 * SQL
 * R
 
