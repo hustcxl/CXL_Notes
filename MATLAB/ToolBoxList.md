@@ -13,4 +13,4 @@
 - [Fuzzy Logic Toolbox](https://ww2.mathworks.cn/help/fuzzy/index.html)
 - [MATLAB Coder](https://ww2.mathworks.cn/help/coder/index.html)
 
-[:back:返回主目录](../../README.md)
+[:back:返回主目录](../README.md)
