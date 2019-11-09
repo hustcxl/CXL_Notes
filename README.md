@@ -9,7 +9,6 @@
 * [Python](./Python/PythonNotes.md) 
 * [C&C++](./C++/C++Note.md)
 * SQL
-* R
 
 ## 3.操作系统💻
 * liunx
@@ -29,7 +28,7 @@
 
 ## 6.旋转机械故障诊断
 * 故障机理
-* [故障诊断方法:chart_with_upwards_trend:]
+* [故障诊断方法:chart_with_upwards_trend:](https://github.com/hustcxl/Deep-learning-in-PHM/blob/master/doc/FD.md)
 * [数据集整理🚟](https://github.com/hustcxl/Rotating-machine-fault-data-set)
 ## 7.工具🔨
 * [github受益匪浅的学习资料](./tools/githubNotes.md)
