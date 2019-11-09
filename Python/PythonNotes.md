@@ -30,4 +30,7 @@ Pycharm 专注于Python开发的编辑器，有比较丰富的调试功能。但
 - scikit-learn
   * [scikit-learn](https://scikit-learn.org/stable/)
   
+- PyTorch
+  * [PyTorch](https://pytorch.org/)
+  
   [:back:返回主目录](../README.md)
