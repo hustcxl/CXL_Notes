@@ -9,7 +9,7 @@
   * [Vibration Analysis 振动分析](https://ww2.mathworks.cn/help/signal/vibration-analysis.html)
   * [Measurements and Feature Extraction 测量与特征提取](https://ww2.mathworks.cn/help/signal/measurements-and-feature-extraction.html?lang=en)
 - [Wavelet Toolbox 小波](https://ww2.mathworks.cn/help/wavelet/index.html)
-- [Predictive Maintenance Toolbox](https://ww2.mathworks.cn/help/predmaint/index.html)
+- [Predictive Maintenance Toolbox 预测维护](https://ww2.mathworks.cn/help/predmaint/index.html)
 - [Fuzzy Logic Toolbox 模糊逻辑](https://ww2.mathworks.cn/help/fuzzy/index.html)
 - [MATLAB Coder 代码转换](https://ww2.mathworks.cn/help/coder/index.html)
 
