@@ -23,5 +23,6 @@
 * [git 入门教程](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 * [GitHub 项目徽章的添加和设置](https://lpd-ios.github.io/2017/05/03/GitHub-Badge-Introduction/)   
+* [GitHub与Jupyter Notebook、GitHub page、CSDN博客大联动](https://www.jianshu.com/p/c4dd47a33daa)
 
 [<<返回主目录](../README.md)
