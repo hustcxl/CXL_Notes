@@ -15,6 +15,7 @@
   * redHat&CentOs
   * [ubuntu 使用笔记](linux/ubuntu.md)
   * [linux 系统及工具教程](https://github.com/dunwu/linux-tutorial)
+  * [linux 使用及进阶](https://github.com/judasn/Linux-Tutorial)
 
 * [windows&dos](./win/windows.md)
 
