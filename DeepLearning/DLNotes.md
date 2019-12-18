@@ -49,4 +49,7 @@
 ### ELM
 * [极限学习机Extreme Learning Machines](https://www.ntu.edu.sg/home/egbhuang/index.html)  
 
+## 开源算法库
+* [深度学习模型算法示例](https://github.com/rasbt/deeplearning-models)
+
 [<<返回主目录](../README.md)
