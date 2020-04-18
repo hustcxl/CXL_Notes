@@ -45,7 +45,7 @@
 * fullfile 构建完整文件名
 ## 5. 矩阵和数组
 * [MATLAB文档矩阵和数组](https://ww2.mathworks.cn/help/matlab/matrices-and-arrays.html?s_tid=CRUX_lftnav)
-* fliplr 翻转行向量
+* [fliplr](https://ww2.mathworks.cn/help/matlab/ref/fliplr.html) 翻转行向量[flipud](https://ww2.mathworks.cn/help/matlab/ref/flipud.html)
 * max向量的最大值，maxk 求取K个最大值
 * reshap 重构矩阵
 * repmat 重复数组副本
