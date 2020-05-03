@@ -63,15 +63,15 @@
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
  
   函数	| 功能
- :--: | :--:
- envspectrum	| Envelope spectrum for machinery diagnosis
-orderspectrum	| 	Average spectrum versus order for vibration signal
-ordertrack		| Track and extract order magnitudes from vibration signal
-orderwaveform		| Extract time-domain order waveforms from vibration signal
-rpmfreqmap		| Frequency-RPM map for order analysis
+ --: | :--
+ envspectrum	| Envelope spectrum for machinery diagnosis（用于机械诊断的包络谱）
+orderspectrum	| 	Average spectrum versus order for vibration signal（平均频谱与振动信号的阶数）
+ordertrack		| Track and extract order magnitudes from vibration signal（跟踪并提取振动信号的阶数）
+orderwaveform		| Extract time-domain order waveforms from vibration signal（从振动信号中提取时域阶次波形）
+rpmfreqmap		| Frequency-RPM map for order analysis（用于阶次分析的频率-转速图）
 rpmordermap		| Order-RPM map for order analysis
-rpmtrack		| Track and extract RPM profile from vibration signal
-tachorpm		| Extract RPM signal from tachometer pulses
+rpmtrack		| Track and extract RPM profile from vibration signal（跟踪并从振动信号中提取RPM剖面）
+tachorpm		| Extract RPM signal from tachometer pulses（从转速计脉冲中提取RPM信号）
 tsa		| Time-synchronous signal average
 
  * [tsa Time-synchronous信号平均](https://ww2.mathworks.cn/help/signal/ref/tsa.html?searchHighlight=tachorpm&s_tid=doc_srchtitle)
