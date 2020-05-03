@@ -61,6 +61,7 @@
  * [hilbert 与瞬时频率](https://ww2.mathworks.cn/help/signal/ug/hilbert-transform-and-instantaneous-frequency.html)
  * [ordertrack 转速跟踪](https://ww2.mathworks.cn/help/signal/ref/ordertrack.html#bvflud5)
  * [振动分析相关示例和函数](https://ww2.mathworks.cn/help/signal/vibration-analysis.html?s_tid=CRUX_lftnav)
+ 
   函数	| 功能
  :--: | :--:
  envspectrum	| Envelope spectrum for machinery diagnosis
