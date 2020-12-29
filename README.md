@@ -4,7 +4,7 @@
 * [Matlab常用命令索引](./MATLAB/Common_Command_Notes.md)
 * [工具箱索引](./MATLAB/ToolBoxList.md)
 * [Matlab FileExchange 中共享的代码库](./MATLAB/FileExchangeLibList.md)
-* [Matlab Notes](./MATLAB/NodeList.md)
+* [Matlab Notes](./MATLAB/MatlabNodeList.md)
 
 ## 2.编程语言👨‍💻
 * [Python](./Python/PythonNotes.md) 
