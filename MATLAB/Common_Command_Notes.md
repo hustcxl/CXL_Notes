@@ -11,11 +11,14 @@
 * text 向数据点添加文本说明
 * annotation  创建注释
 * print 打印图窗或保存为特定文件格式
+
 ### 绘图调整
 [绘图调整参考文档](https://ww2.mathworks.cn/help/matlab/graphics-object-identification.html?searchHighlight=%E5%9B%BE%E5%BD%A2%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%A0%87%E8%AF%86&s_tid=doc_srchtitle)
 * axis 坐标调整
 * gca 获取当前坐标区域或图
 * gcf 当前图窗的句柄
+* axis square 正常比例显示
+* view 调整视图
 ## 2. 函数
 * syms 创建系统变量与函数
 * finverse 求函数的反函数
